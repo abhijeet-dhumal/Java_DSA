@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;beginner level questions&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_pract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_01_pract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_02_IsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_03_printDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_04_fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_05_inverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_06_functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_07_rotate_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_08_GCD_LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_09_prime_factorisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/A03_CollectionsFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/AditionalRoughWork.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/AditionalRoughWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/AllPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/BacktrackQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/MatrixHourGlass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/NQueenBackTracking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_ArrayList/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_ArrayList/C_02_arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_01_printZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_Math/MathForDSA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/C_02_binarysearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/C_03_quadratic_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/NumOfSteptoZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/PermutationBackTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/PowerOfthree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/PracticeProblem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/PracticeProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/SumUptoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/TrickyProb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/recursion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/recursionAdvance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/bank/OopsBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/oops1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/oops2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_07_BitManipulation/BitManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/BoubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/MargeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_09_Stack/PushAtBottomOfStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_09_Stack/ReverseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_09_Stack/StackUsingArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_09_Stack/StackUsingCollectionFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_09_Stack/StackUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_10_Queue/CircularQueueUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_10_Queue/QueueUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_10_Queue/QueueUsingCollectionFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_10_Queue/QueueUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_10_Queue/QueueUsingTwoStack$Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_10_Queue/QueueUsingTwoStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_10_Queue/QueueUsingTwoStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_12_LinkedList/LLUsingCollectionFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_12_LinkedList/LinkedLists1.java" afterDir="false" />
-    </list>
+    <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;beginner level questions&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
