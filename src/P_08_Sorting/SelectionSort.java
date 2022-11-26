@@ -1,3 +1,4 @@
+package P_08_Sorting;
 public class SelectionSort {
 
     public static void printArray(int arr[]){

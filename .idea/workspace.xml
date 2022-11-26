@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;beginner level questions&quot;" />
+    <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;beginner level questions&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Beginner/C_10_pythagorian_triplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beginner/C_11_benjamin_bulbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/ArraySwitchOnCommonElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_02_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_03_diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_04_hollow_diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_05_diagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_06_cross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_07_inner_hollow_diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_08_increasing_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_09_fibonacci_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_10_pillars_of_randomness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_11_number_diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_12_numbers_valley.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_13_traingle_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_03_Math/C_01_primeNumbersTillN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_03_Math/C_02_GCD_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_03_Math/C_03_moduloArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_01_basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_02_NoOfWaysInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_03_StringRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beginner/C_09_prime_factorisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/C_09_prime_factorisation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_07_BitManipulation/BitManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_07_BitManipulation/BitManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/BoubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/MargeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/SelectionSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +72,13 @@
       <recent name="C:\Users\AkshayAbhi\IdeaProjects\DSA_pract\src\Extra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C_09_prime_factorisation">
-    <configuration name="C_05_inverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beginner.C_05_inverse" />
+  <component name="RunManager" selected="Application.C_03_StringRecursion">
+    <configuration name="C_01_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.C_01_basics" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Beginner.*" />
+          <option name="PATTERN" value="P_05_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_07_rotate_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beginner.C_07_rotate_number" />
+    <configuration name="C_02_NoOfWaysInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.C_02_NoOfWaysInMatrix" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Beginner.*" />
+          <option name="PATTERN" value="P_05_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_08_GCD_LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beginner.C_08_GCD_LCM" />
+    <configuration name="C_03_StringRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.C_03_StringRecursion" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Beginner.*" />
+          <option name="PATTERN" value="P_05_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,21 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_09_prime_factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beginner.C_09_prime_factorisation" />
-      <module name="DSA_pract" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Beginner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathForDSA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_03_Math.MathForDSA" />
+    <configuration name="C_03_moduloArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_03_Math.C_03_moduloArithmetic" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
@@ -105,13 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PermutationBackTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.PermutationBackTrack" />
+      <module name="DSA_pract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P_05_Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C_09_prime_factorisation" />
-        <item itemvalue="Application.C_08_GCD_LCM" />
-        <item itemvalue="Application.C_07_rotate_number" />
-        <item itemvalue="Application.MathForDSA" />
-        <item itemvalue="Application.C_05_inverse" />
+        <item itemvalue="Application.C_03_StringRecursion" />
+        <item itemvalue="Application.PermutationBackTrack" />
+        <item itemvalue="Application.C_02_NoOfWaysInMatrix" />
+        <item itemvalue="Application.C_01_basics" />
+        <item itemvalue="Application.C_03_moduloArithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +191,43 @@
           <url>file://$PROJECT_DIR$/src/Beginner/C_07_rotate_number.java</url>
           <line>30</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beginner/C_10_pythagorian_triplet.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_02_Pattern/C_03_diamond.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Extra/abc.java</url>
+          <line>5</line>
+          <properties class="Extra.abc" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Extra/ArraySwitchOnCommonElement.java</url>
+          <line>13</line>
+          <properties class="Extra.ArraySwitchOnCommonElement" method="findSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/P_03_Math/C_03_moduloArithmetic.java</url>
+          <line>10</line>
+          <properties class="P_03_Math.C_03_moduloArithmetic" method="fastPower">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

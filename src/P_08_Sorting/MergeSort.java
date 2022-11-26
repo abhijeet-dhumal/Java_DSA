@@ -1,7 +1,7 @@
-
+package P_08_Sorting;
 import java.util.*;
 
-public class MargeSort {
+public class MergeSort {
 
     
     

@@ -3,7 +3,7 @@ package Beginner;
 import java.sql.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//factors of a number
 public class C_09_prime_factorisation {
     public static void main(String[] args){
         Scanner inp=new Scanner(System.in);
@@ -26,7 +26,7 @@ public class C_09_prime_factorisation {
     }
     static int SmallestDivisor(int n){
         int i=2;
-        while(i<n){
+        while(i<Math.sqrt(n)){
             if (n%i==0){
                 return i;
             }

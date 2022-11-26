@@ -1,3 +1,4 @@
+package P_08_Sorting;
 import java.util.*;
 public class QuickSort {
 
