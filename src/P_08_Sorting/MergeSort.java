@@ -2,9 +2,6 @@ package P_08_Sorting;
 import java.util.*;
 
 public class MergeSort {
-
-    
-    
     public static void conqure(int arr[],int start, int mid, int end) {
         int mar[]=new int[end -start+1];
         int idx1 = start;

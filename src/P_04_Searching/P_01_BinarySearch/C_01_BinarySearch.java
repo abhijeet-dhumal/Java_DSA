@@ -1,6 +1,6 @@
-package P_04_Searching;
+package P_04_Searching.P_01_BinarySearch;
 
-public class C_02_binarysearch {
+public class C_01_BinarySearch {
     public static void main(String[] args) {
         int[] arr = {1,3,2,7,11,8};
         int target  = 7;

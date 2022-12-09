@@ -2,38 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;beginner level questions&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_10_pythagorian_triplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/C_11_benjamin_bulbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/ArraySwitchOnCommonElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extra/abc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_02_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_03_diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_04_hollow_diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_05_diagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_06_cross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_07_inner_hollow_diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_08_increasing_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_09_fibonacci_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_10_pillars_of_randomness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_11_number_diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_12_numbers_valley.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_13_traingle_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_Math/C_01_primeNumbersTillN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_Math/C_02_GCD_LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_Math/C_03_moduloArithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_01_basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_02_NoOfWaysInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_03_StringRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_03_ReverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_04_PairsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_05_PrintSumOfSubArraysBrutForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_06_PrintSubArraysPrefixSumMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_07_PrintMaxSumOfSubArraysKadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_08_TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_09_BuySellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_02_TwoDiamensionalArray/C_01_SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_02_TwoDiamensionalArray/C_02_DiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_02_TwoDiamensionalArray/C_03_SortedMatrixSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/PracticeQuestions/Q_02_rotatedArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/PracticeQuestions/Q_04_TripletsOfArrayWhoseSumIs0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/PracticeQuestions/Q_1_SeeIfRepeatsAtLeast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_01_Array/PracticeQuestions/Q_3_WaterTrappedByColumns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_02_FirstAndLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_03_Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_04_Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_05_InfiniteNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_06_Mountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_07_OrderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_08_SearchInMountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_09_SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_10_RotationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_11_RowColMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_12_SortedMatix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_08_Sorting/P_04_CountingSort/C_01_CountSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beginner/C_09_prime_factorisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/C_09_prime_factorisation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_07_BitManipulation/BitManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_07_BitManipulation/BitManipulations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/BoubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/MargeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beginner/C_01_pract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/C_01_pract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_01_ArrayList/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_01_ArrayList/C_02_arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_02_arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_04_Searching/C_02_binarysearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_04_Searching/P_01_BinarySearch/C_01_BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/P_01_BubbleSort/C_01_BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/P_03_InsertionSort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_08_Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_08_Sorting/P_02_SelectionSort/C_01_SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +63,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\AkshayAbhi\IdeaProjects\DSA_pract\src\Extra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C_03_StringRecursion">
-    <configuration name="C_01_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.C_01_basics" />
+  <component name="RunManager" selected="Application.C_03_SortedMatrixSearch">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_01_Array.P_01_BasicArray.Arrays" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P_05_Recursion.*" />
+          <option name="PATTERN" value="P_01_Array.P_01_BasicArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_02_NoOfWaysInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.C_02_NoOfWaysInMatrix" />
+    <configuration name="C_01_CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_08_Sorting.P_04_CountingSort.C_01_CountSort" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P_05_Recursion.*" />
+          <option name="PATTERN" value="P_08_Sorting.P_04_CountingSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_03_StringRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.C_03_StringRecursion" />
+    <configuration name="C_01_SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_01_Array.P_02_TwoDiamensionalArray.C_01_SpiralMatrix" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P_05_Recursion.*" />
+          <option name="PATTERN" value="P_01_Array.P_02_TwoDiamensionalArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_03_moduloArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_03_Math.C_03_moduloArithmetic" />
+    <configuration name="C_02_DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_01_Array.P_02_TwoDiamensionalArray.C_02_DiagonalSum" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P_03_Math.*" />
+          <option name="PATTERN" value="P_01_Array.P_02_TwoDiamensionalArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationBackTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_05_Recursion.PermutationBackTrack" />
+    <configuration name="C_03_SortedMatrixSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_01_Array.P_02_TwoDiamensionalArray.C_03_SortedMatrixSearch" />
       <module name="DSA_pract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P_05_Recursion.*" />
+          <option name="PATTERN" value="P_01_Array.P_02_TwoDiamensionalArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C_03_StringRecursion" />
-        <item itemvalue="Application.PermutationBackTrack" />
-        <item itemvalue="Application.C_02_NoOfWaysInMatrix" />
-        <item itemvalue="Application.C_01_basics" />
-        <item itemvalue="Application.C_03_moduloArithmetic" />
+        <item itemvalue="Application.C_03_SortedMatrixSearch" />
+        <item itemvalue="Application.C_02_DiagonalSum" />
+        <item itemvalue="Application.C_01_SpiralMatrix" />
+        <item itemvalue="Application.C_01_CountSort" />
+        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +235,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSA_pract$C_01_printZ.ic" NAME="C_01_printZ Coverage Results" MODIFIED="1665549660977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

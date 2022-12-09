@@ -36,12 +36,13 @@ public class C_01_pract {
 
          **/
 
-        // Java Types (Data Types)
         /*
-                                   Data Types are of 2 Types:
-                                  1) Primitive: Stores Simple Values
+         Java Types (Data Types)
 
-                                  2) Non primitive / Reference: Stores Complex Values. No fix size, can store till your memory gets full.
+           Data Types are of 2 Types:
+          1) Primitive: Stores Simple Values
+
+          2) Non primitive / Reference: Stores Complex Values. No fix size, can store till your memory gets full.
          */
 
         /**
@@ -51,13 +52,14 @@ public class C_01_pract {
          byte age2 = 30;
          int phone = 1234567890;          // int can't store more than 10 digits
          long phone2 = 12345678900L;      // long can store but, you need to write 'L' after it to tell java that it is a long.
-         float pi = 3.14F;                // we have to write 'F' after it to tall Java that it's a float.
+         float pi = 3.14F;                // we have to write 'F' after it to tell Java that it's a float.
          char letter = '@';     // char can store any letter.
          boolean isAdult = true;  // you can put either true or false.
          boolean isRetired = false;
 
          // -----Non-Primitive Types-----
-         String name2 = "Aansh";    // In Non-Primitive types, we can perform some more fuctions. For Example: could print its length
+         String name2 = "Aansh";
+         // In Non-Primitive types, we can perform some more fuctions. For Example: could print its length
          System.out.println(name2.length());
 
          **/
