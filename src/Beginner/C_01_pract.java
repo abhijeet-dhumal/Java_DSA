@@ -1,8 +1,5 @@
 package Beginner;
 
-import java.util.Arrays;
-import java.util.Scanner;
-
 public class C_01_pract {
     // Methods or Functions in JAVA
     //                Lets build our own method to print java.
@@ -147,7 +144,8 @@ public class C_01_pract {
          **/
 
         /*
-        INITIALISATION = In Java, if you create a variable and don't give it a value, it puts null value automatically, Or if it's a boolean, it will give false. Unlike other languages like C++
+        INITIALISATION = In Java, if you create a variable and don't give it a value, it puts null value automatically,
+        Or if it's a boolean, it will give false. Unlike other languages like C++
          */
 
         /**
@@ -201,7 +199,8 @@ public class C_01_pract {
          System.out.println(fP);
          **/
 
-        /*  In Explicit casting, the new data type will not be able to hold the value if the previous data type is bigger. So, it will Overflow and some values will be missed.
+        /*  In Explicit casting, the new data type will not be able to hold the value if the previous data
+            type is bigger. So, it will Overflow and some values will be missed.
             In Java, This happens automatically, but the reverse will be allowed, i.e., smaller to bigger.
             If you won't use (int) while explicit casting, it will show error.
         */
@@ -210,21 +209,22 @@ public class C_01_pract {
         // CONSTANTS in Java  --- To Ensure that nobody could ever change a constant value in the code later.
 
         /**
-         final float PI = 3.14F;     //---- Java CODERS Write Constant Values in CAPITAL LETTERS.
+         final float PI = 3.14F;
+         //---- Java CODERS Write Constant Values in CAPITAL LETTERS.
          **/
 
         //PI = 11.1F;    // Due to the use of -final- , value of PI Can not be changed and will show an error.
 
         // OPERATORS
         /*
-                       There are 4 types of operators:
-                       1) Arithmetic (+ , - , *, divide , modulo %)
-                       2) Assignment ,i.e., to assign values (Example, =)
-                       3) Logical
-                       4) Comparison  ( == , )
+               There are 4 types of operators:
+               1) Arithmetic (+ , - , *, divide , modulo %)
+               2) Assignment ,i.e., to assign values (Example, =)
+               3) Logical
+               4) Comparison  ( == , )
          */
-        // Arithmetic Operators
 
+        // Arithmetic Operators
         /**
          int a = 1;
          int b = 2;
@@ -307,7 +307,8 @@ public class C_01_pract {
         /**
 
          System.out.println("Input your Name : ");
-         String nameis22 = sc.next();     // This .next function only takes 1 token, which means 1 word only. so, If you input a line, it will take only its 1st word.
+         String nameis22 = sc.next();     // This .next function only takes 1 token, which means 1 word only.
+         //so, If you input a line, it will take only its 1st word.
          System.out.println(nameis22);
 
          System.out.println("Input your 1 best line : ");

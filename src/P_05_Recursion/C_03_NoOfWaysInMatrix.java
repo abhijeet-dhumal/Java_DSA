@@ -1,6 +1,5 @@
 package P_05_Recursion;
 
-import java.util.Arrays;
 import java.util.Scanner;
 /*
 in matrix , only right and down transition is allowed
@@ -17,7 +16,7 @@ No.of ways for each cell from cell arr[0][0]
 No. of ways required to reach cell arr[i][j] = arr[i-1][j] + arr[i][j-1]
 
  */
-public class C_02_NoOfWaysInMatrix {
+public class C_03_NoOfWaysInMatrix {
     public static void main(String[] args) {
         Scanner inp=new Scanner(System.in);
         int n=inp.nextInt(),m=inp.nextInt();

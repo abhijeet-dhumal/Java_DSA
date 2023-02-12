@@ -5,6 +5,14 @@ public class C_05_PrintSumOfSubArraysBrutForce {
     public static void main(String[] args) {
         int[] arr={1,-2,6,-1,3};
         PrintSubArrays(arr);
+        /*
+        1 |1 -2 |1 -2 6 |1 -2 6 -1 |1 -2 6 -1 3 |
+        -2 |-2 6 |-2 6 -1 |-2 6 -1 3 |
+        6 |6 -1 |6 -1 3 |
+        -1 |-1 3 |
+        3 |
+        MinSum: -2 | MaxSum: 8
+         */
     }
     static void PrintSubArrays(int[] arr){
         //BrutForce

@@ -33,3 +33,43 @@ public class C_06_cross {
         }
     }
 }
+
+
+
+/*
+
+1         1
+ 2       2
+  3     3
+   4   4
+     5
+   4   4
+  3     3
+ 2       2
+1         1
+
+n=int(input())
+for i in range(2*n-1):
+    if(i<n):
+        for j in range(i):
+            print(" ",end="")
+        if(i+1==n):
+            print("",i+1,end="")
+        else:
+            print(i+1,end="")
+        for j in range(2*n-2*i-1):
+            print(" ",end="")
+        if(i+1!=n):
+            print(i+1,end="")
+    else:
+        for j in range(2*n-i-2):
+            print(" ",end="")
+        print(2*n-i-1,end="")
+        for j in range(2*i-n-2):
+            print(" ",end="")
+        print(2*n-i-1,end="")
+
+    print()
+
+
+ */

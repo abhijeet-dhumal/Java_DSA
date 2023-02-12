@@ -11,7 +11,11 @@ public class C_03_SortedMatrixSearch {
                 {32,33,39,50}
             };
         int target=48;
-        System.out.println(Arrays.toString(RowWiseSortedMatrixSearch(arr,target)));
+        System.out.println("Row wise binary search with O(nlogn): "+Arrays.toString(RowWiseSortedMatrixSearch(arr,target)));
+
+
+        System.out.println("Staircase Search col wise O(n+m): "+Arrays.toString(StairCaseSearch(arr,target)));
+        //can be used only when matrix is sorted row as well as col wise
     }
     static int[] RowWiseSortedMatrixSearch(int[][] arr,int target){
         int[] ans={-1,-1};
@@ -38,6 +42,23 @@ public class C_03_SortedMatrixSearch {
                         return ans;
                     }
                 }
+            }
+        }
+        return ans;
+    }
+    static int[] StairCaseSearch(int[][] arr,int target){
+        int[] ans={-1,-1};
+        int row=0, col=arr[0].length-1;
+        while(row<arr.length && col>=0){
+            if(arr[row][col]==target){
+                ans[0]=row;
+                ans[1]=col;
+                return ans;
+            }
+            else if(arr[row][col]>target){
+                col-=1;
+            } else if (arr[row][col]<target) {
+                row++;
             }
         }
         return ans;

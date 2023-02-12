@@ -1,5 +1,5 @@
-package P_05_Recursion;
-public class PowerOfthree {
+package P_05_Recursion.Practice;
+public class P_03_PowerOf3 {
     public static void main(String[] args) {
         System.out.println(isPowerOfThree(675));
     }

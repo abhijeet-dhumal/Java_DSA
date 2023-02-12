@@ -1,5 +1,12 @@
 package P_05_Recursion;
+
+import java.sql.Array;
+
 /*
+Defintion :
+It is a method of solving a computaional problem where the
+solution depends on solution to
+'smaller instances of same problem'.
 
 steps:
     1) Find base case
@@ -9,8 +16,50 @@ steps:
  */
 public class C_01_basics {
     public static void main(String[] args) {
-        System.out.println(SumOfN(10));
-        System.out.println(powerOf(5,5));
+        System.out.println(SumOfN(10));//>> 56
+        System.out.println(powerOf(5,5));//>> 3125
+        System.out.println(factorial(5)); //>> 120
+        int[]  arr = {1,2,3,4,3,5};
+        System.out.println("Array sorted or not : "+ SortedOrNot(arr,0));
+        //>> true
+        System.out.println("First occurence of 3 is at index : "+FirstOccurence(arr,3,0));
+        //>> "First occurence of 3 is at index : 2"
+        System.out.println("Last occurence of 3 is at index :"+LastOccurence(arr,3,arr.length-1));
+        //>> "Last occurence of 3 is at index : 4"
+    }
+    static int LastOccurence(int[] arr, int target, int i){
+        if(i<0){
+            return -1;
+        }
+        if(arr[i]==target){
+            return i;
+        }
+        return LastOccurence(arr,target,i-1);
+    }
+    static int FirstOccurence(int[] arr, int target, int i){
+        if (i==arr.length){
+            return -1;
+        }
+        if(arr[i]==target){
+           return i;
+       }
+
+       return FirstOccurence(arr,target,i+1);
+    }
+    static boolean SortedOrNot(int[] arr,int i){
+        if(i==arr.length-1){
+            return true;
+        }
+        if(arr[i]>arr[i+1]){
+            return false;
+        }
+        return SortedOrNot(arr,i+1);
+    }
+    static int factorial(int n){
+        if(n==0){
+            return 1;
+        }
+        return n*factorial(n-1);
     }
     static int SumOfN(int n){
         if(n==0) return 1;

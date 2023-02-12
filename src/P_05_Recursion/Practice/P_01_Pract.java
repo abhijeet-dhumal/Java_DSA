@@ -1,6 +1,6 @@
-package P_05_Recursion;
+package P_05_Recursion.Practice;
 
-public class Practice {
+public class P_01_Pract {
 
     // Q1. reverse array element-----
    /* static void revArr(int Arr[]  , int idx){
@@ -13,6 +13,7 @@ public class Practice {
     }*/
 
     //Q2. find minimum in Array----------
+
     // static int findMin(int Arr[], int idx ){
     //     if(idx == 0 ){
     //         return Arr[0];
@@ -22,6 +23,15 @@ public class Practice {
 
     //Q3. find maximum in Array-----
      static int findMax(int Arr[], int idx ){
+         /*
+         if(idx < 0 ){
+             return max;
+         }
+         if (Arr[idx]>max){
+             max=Arr[idx];
+         }
+         return findMax(Arr, max, idx-1);
+          */
          if(idx == 0 ){
              return Arr[0];
          }

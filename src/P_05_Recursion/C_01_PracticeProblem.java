@@ -1,6 +1,6 @@
 package P_05_Recursion;
 
-public class PracticeProblem {
+public class C_01_PracticeProblem {
 
     /*1.print all uper case of a string--------------------------------------------*/
     // public static void uperCase(String str , int idx){

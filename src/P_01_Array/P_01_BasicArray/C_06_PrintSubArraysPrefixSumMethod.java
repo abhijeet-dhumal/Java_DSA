@@ -7,6 +7,7 @@ import java.util.Arrays;
 public class C_06_PrintSubArraysPrefixSumMethod {
 
     public static void main(String[] args) {
+
         int[] arr={1,-2,6,-1,3};
         PrintSubArrays(arr);
         /* output :

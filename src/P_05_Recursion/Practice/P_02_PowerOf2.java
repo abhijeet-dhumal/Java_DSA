@@ -1,6 +1,8 @@
-public class PowerOfTwo {
+package P_05_Recursion.Practice;
+
+public class P_02_PowerOf2 {
     public static void main(String[] args) {
-        System.out.println(isPowerOfTwo(16));
+        System.out.println(isPowerOfTwo(64));
     }
     public static boolean isPowerOfTwo(int n) {
         if(n == 1){
