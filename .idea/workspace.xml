@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;Recursion topics and practice questions added &quot;">
-      <change afterPath="$PROJECT_DIR$/src/P_01_Array/P_02_TwoDiamensionalArray/C_04_TransposeOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_Strings/C_01_ShortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_Strings/C_02_StringFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_Strings/C_03_LargestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_Strings/C_04_FirstCharEachToUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_Strings/C_05_StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_01_Strings/C_06_AnagramsOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/C_02_ClearLastIBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/C_03_ClearRangeOfBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/C_04_CheckIfPowerOf2OrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/C_05_CountSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/C_06_FastExponentiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/C_07_ModularExponentiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/Practice/Q_01_Swap2Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/Practice/Q_02_ChangeCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_04_Searching/C_02_StairCaseSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_02_XraiseToN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_07_recursionAdvance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_03_TilingProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_05_Recursion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_06_FriendsPairingProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_07_BinaryStringsProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_01_Initials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_02_Constructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_03_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_04_Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_05_Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_06_Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_07_Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_08_Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_06_OOPs/C_09_ConstructorChaining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beginner/C_01_pract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/C_01_pract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_04_PairsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_04_PairsInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_05_PrintSumOfSubArraysBrutForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_05_PrintSumOfSubArraysBrutForce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_06_PrintSubArraysPrefixSumMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_06_PrintSubArraysPrefixSumMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_08_TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_01_Array/P_01_BasicArray/C_08_TrappingRainWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_01_Array/P_02_TwoDiamensionalArray/C_03_SortedMatrixSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_01_Array/P_02_TwoDiamensionalArray/C_03_SortedMatrixSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_02_Pattern/C_01_printZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_01_printZ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_02_Pattern/C_06_cross.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_02_Pattern/C_06_cross.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/C_01_basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_01_basics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/C_02_NoOfWaysInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_03_NoOfWaysInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/C_03_StringRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_05_StringRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/C_04_NQueenProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/NumOfSteptoZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_04_NumOfSteptoZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/PermutationBackTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_06_PermutationBackTrack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_02_PowerOf2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/PowerOfthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_03_PowerOf3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_01_Pract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/PracticeProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/PracticeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_01_PracticeProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/Practice/P_04_SomeApps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/SumUptoNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/TrickyProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_08_TrickyProb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/recursion2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/recursionAdvance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_06_OOPs/bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_06_OOPs/bank/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_06_OOPs/oops1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_06_OOPs/oops2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_07_BitManipulation/BitManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_03_BitManipulation/BitManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/C_04_NumOfSteptoZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_04_NumOfSteptoZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670601456784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Recursion topics and practice questions added &quot;">
+      <created>1676206439137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676206439137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
