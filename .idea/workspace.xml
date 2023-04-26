@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;Recursion topics and practice questions added &quot;">
-      <change beforePath="$PROJECT_DIR$/src/P_05_Recursion/C_04_NumOfSteptoZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_05_Recursion/C_04_NumOfSteptoZero.java" afterDir="false" />
+    <list default="true" id="36c42c06-57f0-422d-92e4-64b95f240dff" name="Changes" comment="&quot;LinkedList and HandWritten Notes added&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hand written Core Java (Part-1) Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hand written Core Java (Part-2) Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_01_Array/Problems on Arrays and Matrices.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_09_Backtracking/Recursion &amp; Backtracking Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_09_Stack/Stack &amp; Queue Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_12_LinkedList/Linked List Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_13_Tree/Tree (Part-1) Notes .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_13_Tree/Tree (Part-2) Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_14_Graph/Graph (Part-1) Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_14_Graph/Graph (Part-2) Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_15_DP/Dynamic Programming (Part-1) Notes.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +31,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FzS9EmxJtePM0Gm88Im0kLsUf0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -130,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676206439137</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;LinkedList and HandWritten Notes added&quot;">
+      <created>1682500690085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682500690085</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +175,8 @@
     <MESSAGE value="&quot;beginner level questions&quot;" />
     <MESSAGE value="&quot;Arrays pattern question&quot;" />
     <MESSAGE value="&quot;Recursion topics and practice questions added &quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Recursion topics and practice questions added &quot;" />
+    <MESSAGE value="&quot;LinkedList and HandWritten Notes added&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;LinkedList and HandWritten Notes added&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,6 +255,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/DSA_pract$pattern.ic" NAME="pattern Coverage Results" MODIFIED="1665550277719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>P_02_Pattern.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DSA_pract$C_01_LinkedList.ic" NAME="C_01_LinkedList Coverage Results" MODIFIED="1681883726506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P_11_LinkedList.*</FILTER>
     </SUITE>
   </component>
 </project>
