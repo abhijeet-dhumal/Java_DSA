@@ -46,6 +46,7 @@ public class C_08_SearchInMountain {
 
     static int search(int[] arr, int target) {
         int peak = peakIndexInMountainArray(arr);
+        System.out.println(2);
         int firstTry = orderAgnosticBS(arr, target, 0, peak);
         if (firstTry != -1) {
             return firstTry;
@@ -61,12 +62,12 @@ public class C_08_SearchInMountain {
         while (start < end) {
             int mid = start + (end - start) / 2;
             if (arr[mid] > arr[mid+1]) {
-                // you are in dec part of array
+                // you are in asc part of array
                 // this may be the ans, but look at left
                 // this is why end != mid - 1
                 end = mid;
             } else {
-                // you are in asc part of array
+                // you are in desc part of array
                 start = mid + 1; // because we know that mid+1 element > mid element
             }
         }
