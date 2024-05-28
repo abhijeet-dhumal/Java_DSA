@@ -5,14 +5,11 @@ Welcome to the Java-DSA repository! I have tried to include collection of data s
 ## Table of Contents
 - [About](#about)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Notes]()
--- Core Java Notes
--- Computer Networking
--- Operating System
--- DBMS $ SQL_interview questions
--- Leetcode questions & answers
+- [Running the Code](#running-the-code)
+- [Notes](#notes)
+- [Contributing](#contributing)
 
 ## About
 
@@ -21,6 +18,7 @@ This repository includes implementations of various data structures and algorith
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+
 
 ### Prerequisites
 
@@ -44,6 +42,15 @@ cd src/P_08_Sorting/P_01_BubbleSort
 javac C_01_BubbleSort.java
 java C_01_BubbleSort
 ```
+
+## Notes 
+
+- Core Java Notes
+- Computer Networking
+- Operating System
+- DBMS & SQL_interview questions
+- Leetcode questions & answers
+
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
