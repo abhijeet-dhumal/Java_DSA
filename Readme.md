@@ -8,7 +8,6 @@ Welcome to the Java-DSA repository! I have tried to include collection of data s
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Code](#running-the-code)
-- [Notes](#notes)
 - [Contributing](#contributing)
 
 ## About
@@ -42,14 +41,6 @@ cd src/P_08_Sorting/P_01_BubbleSort
 javac C_01_BubbleSort.java
 java C_01_BubbleSort
 ```
-
-## Notes 
-
-- Core Java Notes
-- Computer Networking
-- Operating System
-- DBMS & SQL_interview questions
-- Leetcode questions & answers
 
 
 ## Contributing
